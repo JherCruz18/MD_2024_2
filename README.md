@@ -1,1 +1,3 @@
-# MD_2024_2
+# Repositorio de BI
+
+Bienvenidos a mi repositorio de BI
